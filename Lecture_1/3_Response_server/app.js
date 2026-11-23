@@ -13,4 +13,4 @@ app.get("/faq", (req, res) => {
   res.send("It's an faq page");
 });
 
-app.listen(7000);
+app.listen(3000);
